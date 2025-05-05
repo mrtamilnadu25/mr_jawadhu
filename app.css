@@ -1,8 +1,9 @@
 *{
   margin:auto;
   padding:0;
-  border-box:none; 
+  border:none; 
 }
 body{
   background-color:orange;
+  color: aqua;
 }
